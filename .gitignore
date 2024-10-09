@@ -1,0 +1,16 @@
+# Ignora todos los archivos 
+*.qrc
+*.user
+*.user
+*.html
+*.mbed
+*.bld
+
+# Ignora el directorio
+.vscode
+BUILD
+
+# Ignora el archivo especifico debug.log
+Makefile
+myMakeCFG
+myMakefile
