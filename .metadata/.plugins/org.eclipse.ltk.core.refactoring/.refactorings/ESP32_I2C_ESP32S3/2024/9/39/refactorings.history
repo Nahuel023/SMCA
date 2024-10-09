@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ESP32_I2C_ESP32S3/main/blink_example_main.c&apos; to &apos;ESP32_I2C_ESP32S3.c&apos;" description="Rename resource &apos;blink_example_main.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="main/blink_example_main.c" name="ESP32_I2C_ESP32S3.c" stamp="1727380668620" updateReferences="true"/>
+</session>

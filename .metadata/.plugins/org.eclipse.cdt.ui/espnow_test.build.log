@@ -1,0 +1,20 @@
+                             Memory Type Usage Summary                              
++----------------------------------------------------------------------------------+
+| Memory Type/Section   | Used [bytes] | Used [%] | Remain [bytes] | Total [bytes] |
+|-----------------------+--------------+----------+----------------+---------------|
+| Flash Code            |       520214 |    15.56 |        2822090 |       3342304 |
+|    .text              |       520214 |    15.56 |                |               |
+| Flash Data            |       126720 |     3.02 |        4067552 |       4194272 |
+|    .rodata            |       126464 |     3.02 |                |               |
+|    .appdesc           |          256 |     0.01 |                |               |
+| IRAM                  |        94615 |    72.19 |          36457 |        131072 |
+|    .text              |        93587 |     71.4 |                |               |
+|    .vectors           |         1027 |     0.78 |                |               |
+| DRAM                  |        32932 |    18.22 |         147804 |        180736 |
+|    .bss               |        16944 |     9.38 |                |               |
+|    .data              |        15988 |     8.85 |                |               |
+| RTC SLOW              |           24 |     0.29 |           8168 |          8192 |
+|    .rtc_slow_reserved |           24 |     0.29 |                |               |
++----------------------------------------------------------------------------------+
+C:\Espressif\python_env\idf5.3_py3.11_env\Scripts\python.exe C:/Espressif/frameworks/esp-idf-v5.3/\components\partition_table\gen_esp32part.py C:\Users\Alexi\workspace\espnow_test\build\partition_table\partition-table.bin
+Total time taken to build the project: 381 ms

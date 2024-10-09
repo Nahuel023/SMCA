@@ -1,0 +1,6 @@
+cmake --build . -- -v
+ninja: error: loading 'build.ninja': El sistema no puede encontrar el archivo especificado.
+
+
+Build complete (0 errors, 0 warnings): C:\Users\Alexi\workspace\ESP32_DS18B20\build
+Total time taken to build the project: 7.946 ms
